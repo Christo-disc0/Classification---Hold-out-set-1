@@ -17,4 +17,3 @@ Tune the hyperparameters on the training set using GridSearchCV with 5-folds. Th
 
 Print the best parameter and best score obtained from GridSearchCV by accessing the best_params_ and best_score_ attributes of logreg_cv.
 
-(100 XP)
